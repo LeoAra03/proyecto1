@@ -1,0 +1,2 @@
+tablero,algoritmo,heuristica,resuelto,tiempo_s,memoria_bytes,expandidos,generados,frontera_max
+.\boards\5x5.txt,astar,uncertainty,True,0.0029300000005605398,14880,7,13,8

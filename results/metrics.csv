@@ -1,0 +1,10 @@
+tablero,algoritmo,heuristica,resuelto,tiempo_s,memoria_bytes,expandidos,generados,frontera_max
+boards/10x10.txt,astar,uncertainty,True,0.014871849000002157,193912,73,72,7
+boards/10x10.txt,bfs,uncertainty,True,0.013828388999996832,194016,73,72,21
+boards/10x10.txt,dfs,uncertainty,True,0.008457357999986925,109672,42,46,7
+boards/15x15.txt,astar,uncertainty,True,0.00906180600000539,33640,16,15,1
+boards/15x15.txt,bfs,uncertainty,True,0.010105503000005456,33592,16,15,1
+boards/15x15.txt,dfs,uncertainty,True,0.00868183499997599,33592,16,15,1
+boards/5x5.txt,astar,uncertainty,True,0.0012625589999970543,14992,7,13,8
+boards/5x5.txt,bfs,uncertainty,True,0.0168485789999977,181912,100,146,60
+boards/5x5.txt,dfs,uncertainty,True,0.0015358759999912763,12832,6,12,8
